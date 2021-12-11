@@ -129,6 +129,13 @@ Cadastro da Revisões
 - Mascara para data ;
 - Mascara par Horário ;
 
+Cadastro de Usuarios (Administradores)
+
+![image](https://user-images.githubusercontent.com/60347505/145660011-18abf478-081e-4ad5-be45-0bf926e2b8b8.png)
+
+- Cadastro de Permissões
+- Alteração de Senha
+
 # Como Utilizar 
 
 Inicialemente adicione os arquivos a seu servidor apache e em seguida faça upload da base de dados disponibilizada dentro da pasta " Banco de Dados ";
