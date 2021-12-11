@@ -1,6 +1,6 @@
 # GerenciamentoDeRevisoesAutomotivas-PHP
 
-Atividade prática - Programação Orientada à Objeto
+Atividade prática
 
 
 # Escopo do Projeto
